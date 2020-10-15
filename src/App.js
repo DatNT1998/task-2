@@ -31,8 +31,6 @@ function App() {
             });
     }, []);
     // console.log(goals, 'goal');
-    console.log(updates, 'update')
-
     // console.log(goals.field.updates);
 
     return (

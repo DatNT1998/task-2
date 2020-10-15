@@ -1,7 +1,6 @@
 import React from 'react';
 
 function Goal({ goal, updates }) {
-    console.log(updates, 'update nay nay')
     return (
         <div>
             <label className="label-title">
